@@ -1,10 +1,16 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi there! 👋 I'm Sahil Kaushik</h1>
-<h3 align="center">A Passionate Full Stack Developer | Blockchain Enthusiast | Competitive Coder</h3>
+<h3 align="center">Full Stack Developer | Web3 Enthusiast | Competitive Coder</h3>
 
+---
+
+<!-- BEAUTIFUL CONTRIBUTION GRAPH -->
+<h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahil-kaushik1/sahil-kaushik1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-kaushik1&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
+
+---
 
 <!-- SHORT BIO -->
 ```ts
@@ -33,8 +39,8 @@ const sahil = {
 
 ---
 
-<!-- TECH STACK CHART -->
-<h2>🧠 Tech Stack Overview</h2>
+<!-- TECH STACK -->
+<h2>🧠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,prisma,git,bash,rust" />
@@ -42,11 +48,10 @@ const sahil = {
 
 ---
 
-<!-- POKÉMON TOUCH -->
-<h2>🎮 Just a Developer in His Own PokéJourney</h2>
-
+<!-- POKÉMON STYLE TOUCH -->
+<h2 align="center">🎮 Just a Dev on His PokéJourney</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ardnh/github-profile-readme-generator/main/public/pokemon-ash-retro.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="250px" />
 </p>
 
 ---

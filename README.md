@@ -526,4 +526,122 @@
         const texts = [
             'Full Stack Developer & Blockchain Engineer',
             'Smart Contract Developer',
-            '
+            'DeFi Protocol Builder',
+            'Web3 Innovation Enthusiast'
+        ];
+        let textIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+
+        function typeEffect() {
+            const currentText = texts[textIndex];
+            const typingElement = document.getElementById('typing-text');
+            
+            if (isDeleting) {
+                typingElement.textContent = currentText.substring(0, charIndex - 1);
+                charIndex--;
+            } else {
+                typingElement.textContent = currentText.substring(0, charIndex + 1);
+                charIndex++;
+            }
+
+            if (!isDeleting && charIndex === currentText.length) {
+                setTimeout(() => { isDeleting = true; }, 2000);
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                textIndex = (textIndex + 1) % texts.length;
+            }
+
+            setTimeout(typeEffect, isDeleting ? 50 : 100);
+        }
+        typeEffect();
+
+        // Charts
+        setTimeout(() => {
+            // Focus Chart
+            const focusCtx = document.getElementById('focusChart').getContext('2d');
+            new Chart(focusCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Blockchain', 'Frontend', 'Backend', 'AI/ML'],
+                    datasets: [{
+                        data: [40, 30, 20, 10],
+                        backgroundColor: [
+                            'rgba(0, 212, 255, 0.8)',
+                            'rgba(255, 0, 128, 0.8)',
+                            'rgba(255, 215, 0, 0.8)',
+                            'rgba(50, 255, 50, 0.8)'
+                        ],
+                        borderWidth: 2,
+                        borderColor: 'rgba(255, 255, 255, 0.1)'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { color: '#e6edf3' }
+                        }
+                    }
+                }
+            });
+
+            // Blockchain Chart
+            const blockchainCtx = document.getElementById('blockchainChart').getContext('2d');
+            new Chart(blockchainCtx, {
+                type: 'radar',
+                data: {
+                    labels: ['Ethereum', 'Solana', 'Sui', 'ICP', 'DeFi', 'Smart Contracts'],
+                    datasets: [{
+                        label: 'Expertise Level',
+                        data: [95, 80, 75, 70, 90, 92],
+                        backgroundColor: 'rgba(0, 212, 255, 0.2)',
+                        borderColor: 'rgba(0, 212, 255, 1)',
+                        pointBackgroundColor: 'rgba(255, 0, 128, 1)',
+                        pointBorderColor: '#fff',
+                        pointHoverBackgroundColor: '#fff',
+                        pointHoverBorderColor: 'rgba(255, 0, 128, 1)'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 100,
+                            ticks: { color: '#8b949e' },
+                            grid: { color: 'rgba(255, 255, 255, 0.1)' },
+                            pointLabels: { color: '#e6edf3' }
+                        }
+                    },
+                    plugins: {
+                        legend: { labels: { color: '#e6edf3' } }
+                    }
+                }
+            });
+        }, 1000);
+
+        // Smooth scrolling and intersection observer for animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.stats-card, .project-card, .achievements').forEach(el => {
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>

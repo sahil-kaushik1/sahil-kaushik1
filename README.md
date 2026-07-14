@@ -6,28 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const sahil = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    currentFocus: "Full Stack Development & Web3",
-    code: ["JavaScript", "TypeScript", "Python", "Solidity"],
-    technologies: {
-        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        blockchain: ["Ethereum", "Hardhat", "Web3.js", "Ethers.js"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        tools: ["Docker", "Git", "AWS", "Vercel"]
-    },
-    currentlyLearning: "Advanced Smart Contract Development",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -47,29 +25,6 @@ const sahil = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-kaushik1&theme=tokyo-night&area=true&hide_border=true&custom_title=Sahil's%20Contribution%20Graph" width="95%"/>
 </div>
-
----
-
-## 🎯 Current Focus
-
-<!-- This section will be updated by GitHub Actions -->
-- 🔭 Working on: **Building scalable web applications**
-- 🌱 Learning: **Advanced React patterns and Web3 development**
-- 👯 Looking to collaborate on: **Open source projects and innovative startups**
-- 💡 Interested in: **DeFi, NFTs, and blockchain technology**
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   60.5%
-TypeScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   20.6%
-React        2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░   13.4%
-CSS          1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░    5.5%
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -93,47 +48,6 @@ CSS          1 hr 10 mins    ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with Next.js 14](https://dev.to/sahilkaushik)
-- [Web3 Development: A Beginner's Guide to Smart Contracts](https://dev.to/sahilkaushik)
-- [Optimizing React Performance: Tips and Tricks](https://dev.to/sahilkaushik)
-- [Getting Started with Blockchain Development](https://dev.to/sahilkaushik)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 

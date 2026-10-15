@@ -1,107 +1,186 @@
-<!-- Animated profile header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0891B2&height=190&section=header&text=Sahil%20Kaushik&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Web3%20Security%20Researcher%20%7C%20Smart%20Contract%20Auditor%20%7C%20Full-Stack%20Developer&descSize=15&descAlignY=58" alt="Sahil Kaushik profile header" />
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:007F86&height=200&section=header&text=Sahil%20Kaushik&fontSize=48&fontColor=E6FCFF&fontAlignY=35&desc=WEB3%20SECURITY%20%7C%20SMART%20CONTRACTS%20%7C%20FULL-STACK%20ENGINEERING&descSize=13&descAlignY=59&animation=fadeIn" alt="Sahil Kaushik — Web3 Security Researcher" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=Web3+Security+Researcher;Smart+Contract+Auditor+%26+Bug+Hunter;Web3+Developer+%7C+Full-Stack+Engineer;Find+the+flaw.+Understand+the+system.+Build+better." alt="Animated professional introduction" />
+
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=850&lines=Finding+bugs+before+they+become+exploits;Smart+Contract+Security+%7C+Web3+Engineering;Full-Stack+Development+%7C+Backend+Systems;Research.+Build.+Test.+Improve." alt="Animated typing introduction" />
-  <br/><br/>
-  <a href="mailto:sahilkaushik2444@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sahil" /></a>
-  <a href="https://linkedin.com/in/sahil-kaushik-358779290"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://github.com/sahil-kaushik1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+
+  <a href="mailto:sahilkaushik2444@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/sahil-kaushik-358779290">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sahil-kaushik1">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+
 </div>
 
 ---
 
-## About
+## `$ whoami`
 
-I'm a **Web3 security researcher, smart contract auditor, and software developer**. I work across offensive security and engineering: reviewing protocol logic, tracing state and asset flows, investigating attack surfaces, and building Web3 and full-stack applications.
+I'm **Sahil Kaushik**, a Web3 security researcher, smart contract auditor, and software developer working across blockchain security and full-stack engineering.
 
-I enjoy understanding how a system is *supposed* to behave, identifying the assumptions it relies on, and testing what happens when those assumptions fail.
+I investigate how protocols behave under unexpected conditions, trace state transitions and asset flows, examine security assumptions, and look for vulnerabilities that can compromise a system.
 
-## What I do
+Alongside security research, I build Web3 applications, backend services, APIs, and full-stack software.
+
+My approach is simple: understand the system deeply, question its assumptions, test its boundaries, and build with security in mind.
+
+---
+
+## `$ areas_of_focus`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 Web3 Security</h3>
+      <h3>01 / Web3 Security</h3>
+      <p>
+        <img src="https://img.shields.io/badge/SMART_CONTRACTS-14332B?style=flat-square&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/BUG_BOUNTY-14332B?style=flat-square" />
+      </p>
       <ul>
         <li>Smart contract and protocol security reviews</li>
-        <li>Threat modeling and attack-surface mapping</li>
-        <li>State-transition, access-control, and fund-flow analysis</li>
-        <li>Edge-case testing, fuzzing, and invariant-driven testing</li>
-        <li>Proof-of-concept development and bug bounty research</li>
+        <li>Attack-surface and threat modeling</li>
+        <li>State-transition and fund-flow analysis</li>
+        <li>Access control and authorization logic</li>
+        <li>Invariant testing and fuzzing strategies</li>
+        <li>Exploitability analysis and proof-of-concept development</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Web3 & Full-Stack Engineering</h3>
+      <h3>02 / Software Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/WEB3-14332B?style=flat-square" />
+        <img src="https://img.shields.io/badge/FULL_STACK-14332B?style=flat-square" />
+      </p>
       <ul>
         <li>Smart contracts and blockchain integrations</li>
-        <li>Backend services, APIs, and application logic</li>
-        <li>Web applications and developer tooling</li>
-        <li>System design, debugging, and test automation</li>
-        <li>Turning technical requirements into maintainable software</li>
+        <li>Backend systems and API development</li>
+        <li>Full-stack web applications</li>
+        <li>Database design and application logic</li>
+        <li>Developer tooling and test automation</li>
+        <li>Debugging, maintainability, and secure design</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## Technical toolkit
+---
+
+## `$ tech_stack`
 
 <div align="center">
-  <h3>Languages & Smart Contracts</h3>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br/>
-  <h3>Web & Backend</h3>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br/>
-  <h3>Developer Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=solidity,rust,go,typescript,javascript,python,cpp&theme=dark" alt="Solidity, Rust, Go, TypeScript, JavaScript, Python and C++" />
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express and MongoDB" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Git, GitHub and Linux" />
+
 </div>
 
-## GitHub insights
+---
+
+## `$ security_research_console`
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sahil-kaushik1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="175" src="https://streak-stats.demolab.com?user=sahil-kaushik1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  <br/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-kaushik1&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most-used programming languages" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2300&pause=850&color=00FF9C&background=080B16&center=true&vCenter=true&width=850&height=180&multiline=true&repeat=true&lines=%24+map_attack_surface;>+trace_state_transitions;>+analyze_fund_flows;>+challenge_protocol_assumptions;>+test_security_invariants;>+validate_exploitability;>+review.+refine.+repeat." alt="Animated security research terminal" />
+
 </div>
 
-## Contribution activity
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>01</h3>
+      <b>Map</b>
+      <br/>
+      <sub>Entrypoints, roles and attack surfaces</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>02</h3>
+      <b>Trace</b>
+      <br/>
+      <sub>State changes, calls and asset flows</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>03</h3>
+      <b>Test</b>
+      <br/>
+      <sub>Edge cases, invariants and assumptions</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>04</h3>
+      <b>Validate</b>
+      <br/>
+      <sub>Impact, reproducibility and mitigations</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `$ github_stats`
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-kaushik1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sahil-kaushik1&show_icons=true&hide_border=true&bg_color=080B16&title_color=22D3EE&text_color=C9D1D9&icon_color=00FF9C&rank_icon=github" alt="GitHub statistics" />
+
+  <img height="175" src="https://streak-stats.demolab.com?user=sahil-kaushik1&hide_border=true&background=080B16&ring=22D3EE&fire=00FF9C&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" alt="GitHub contribution streak" />
+
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil-kaushik1/sahil-kaushik1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil-kaushik1/sahil-kaushik1/output/github-snake.svg" />
-    <img alt="Animated snake moving through my GitHub contribution graph" src="https://raw.githubusercontent.com/sahil-kaushik1/sahil-kaushik1/output/github-snake.svg" width="98%" />
-  </picture>
+
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-kaushik1&layout=compact&langs_count=8&hide_border=true&bg_color=080B16&title_color=22D3EE&text_color=C9D1D9" alt="Most-used GitHub languages" />
+
 </div>
 
-## Let's connect
+---
 
-I'm interested in smart contract security, Web3 engineering, security research, and building useful developer tools.
-
-- **Email:** [sahilkaushik2444@gmail.com](mailto:sahilkaushik2444@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sahil-kaushik-358779290](https://linkedin.com/in/sahil-kaushik-358779290)
-- **GitHub:** [@sahil-kaushik1](https://github.com/sahil-kaushik1)
+## `$ activity_log`
 
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=sahil-kaushik1&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views counter" />
+
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-kaushik1&bg_color=080B16&color=C9D1D9&line=22D3EE&point=00FF9C&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## `$ connect --with=sahil`
+
+<div align="center">
+
+  Interested in Web3 security, smart contract auditing, bug bounty research, blockchain engineering, and full-stack development.
+
   <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:0B1220&height=110&section=footer" alt="Decorative footer" />
+
+  <a href="mailto:sahilkaushik2444@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Talk-Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+  </a>
+  <a href="https://linkedin.com/in/sahil-kaushik-358779290">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=sahil-kaushik1&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
-<!-- Dynamic cards and animations rely on third-party services. If one stops rendering, the profile content remains readable. -->
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007F86,100:080B16&height=120&section=footer" alt="Decorative footer" />
+
+  <sub>Research with intent. Build with purpose. Keep questioning.</sub>
+
+</div>

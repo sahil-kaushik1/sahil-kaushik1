@@ -140,21 +140,6 @@ My security workflow focuses on understanding the relationships between componen
 
 ---
 
-## `$ github_stats`
-
-<div align="center">
-
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sahil-kaushik1&show_icons=true&hide_border=true&bg_color=080B16&title_color=22D3EE&text_color=C9D1D9&icon_color=00FF9C&rank_icon=github" alt="GitHub statistics" />
-
-  <img height="175" src="https://streak-stats.demolab.com?user=sahil-kaushik1&hide_border=true&background=080B16&ring=22D3EE&fire=00FF9C&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" alt="GitHub contribution streak" />
-
-  <br/>
-
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-kaushik1&layout=compact&langs_count=8&hide_border=true&bg_color=080B16&title_color=22D3EE&text_color=C9D1D9" alt="Most-used GitHub languages" />
-
-</div>
-
----
 
 ## `$ connect --with=sahil`
 

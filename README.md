@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
   <img src="./security-hero.gif" width="100%" alt="Sahil Kaushik — Web3 Security Researcher and Developer" />
 
   <br/>
